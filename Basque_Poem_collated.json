@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "69c8cd88-ef83-4fd1-8095-9bd3c3daa438",
+            "collectionId": "Basque",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Basque/69c8cd88-ef83-4fd1-8095-9bd3c3daa438_ba_Female.mp4"
+        },
+        {
+            "id": "9553866d-3b33-4501-82cc-e0d27339dfed",
+            "collectionId": "Basque",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Basque/9553866d-3b33-4501-82cc-e0d27339dfed_ba_Female.mp4"
+        }
+    ]
+}
